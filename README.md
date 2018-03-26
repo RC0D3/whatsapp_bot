@@ -10,8 +10,4 @@ On a conversation , open the Developer Tools Console (Chrome: Ctrl + Shift + J	o
 Copy & Paste the whatsapp_spammer.js's content in it.
 
 ### Step 4:
-Call the function spam(); like that: 
-```
-spam("My message", 10); //Will send it 10 times
-```
-*do not abuse it :innocent:*
+See the bot.
