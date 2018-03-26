@@ -1,4 +1,4 @@
-# whatsapp_spammer
+# whatsapp_bot
 
 ### Step 1:
 Go to https://web.whatsapp.com/ and scan the QR code to connect your account
